@@ -8,7 +8,7 @@ import { Footer } from "./Footer";
 
 import { MAX_WIDTH } from "../styles/variables";
 
-const NAME = "Terēze Medne";
+const NAME = "Edgars Andrucis";
 
 export const Layout = ({ children }: { children: any }) => {
   return (

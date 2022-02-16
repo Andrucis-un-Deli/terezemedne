@@ -5,7 +5,7 @@ export type Props = {
   instagram?: string;
 };
 
-const Title = <h1 className="uppercase">Terēze Medne</h1>;
+const Title = <h1 className="uppercase">Edgars Andrucis</h1>;
 
 export const Header = ({ instagram }: Props) => {
   return (
